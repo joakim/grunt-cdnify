@@ -38,7 +38,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "css-url-rewriter": "0.0.1",
+    "css-url-rewriter": "git+ssh://git@github.com:joakim/css-url-rewriter.git#skl-genombrott-ember",
     "soup": "~0.1.3"
   }
 }
