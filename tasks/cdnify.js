@@ -43,6 +43,7 @@ var defaults = {
 var htmlDefaults = {
   'img[src]': 'src',
   'link[rel=stylesheet]': 'href',
+  'link[rel~=icon]': 'href',
   'script[src]': 'src',
   'video[poster]': 'poster',
   'source[src]': 'src'
