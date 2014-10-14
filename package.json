@@ -5,8 +5,9 @@
   "homepage": "https://github.com/callumlocke/grunt-cdnify",
   "repository": {
     "type": "git",
-    "url": "https://github.com/callumlocke/grunt-cdnify.git"
+    "url": "https://github.com/joakim/grunt-cdnify.git"
   },
+  "private": true,
   "bugs": "https://github.com/callumlocke/grunt-cdnify/issues",
   "author": {
     "name": "Callum Locke",
